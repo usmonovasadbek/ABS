@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="c_key" type="id" />
+    <item name="d_key" type="id" />
+    <item name="e_key" type="id" />
+    <item name="f_key" type="id" />
+    <item name="g_key" type="id" />
+    <item name="key_c_sharp" type="id" />
+    <item name="key_d_sharp" type="id" />
+</resources>
